@@ -1,8 +1,6 @@
 # Google Drive Clone - Semana JS Expert 5.0
 
-Seja bem vindo(a) à quinta Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
-
-Marque esse projeto com uma estrela 🌟
+> ### https://github.com/ErickWendel/semana-javascript-expert05
 
 ## Preview
 
@@ -35,12 +33,6 @@ Marque esse projeto com uma estrela 🌟
    - Caso tenha duvidas, acesse o [exemplo](https://github.com/ErickWendel/tdd-frontend-example) e deixe uma estrela!
 3. _Infraestrutura_: Publicar aplicação com seu SSL customizado em máquina virtual
    - Você aprendeu a gerar SSL local, o desafio é você criar um certificado (pode ser com o _Let's Encrypt_) e adicionar na sua aplicação
-
-### Considerações
-
-- Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
-
-- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no **Discord**
 
 ## Créditos ao Layout <3
 
